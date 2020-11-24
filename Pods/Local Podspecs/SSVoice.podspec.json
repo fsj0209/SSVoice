@@ -1,0 +1,29 @@
+{
+  "name": "SSVoice",
+  "version": "0.1.0",
+  "summary": "A short description of SSVoice.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "../",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fansenjun": "fansenjun@infinities.com.cn"
+  },
+  "source": {
+    "git": "../",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SSVoice/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

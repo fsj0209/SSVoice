@@ -1,0 +1,6 @@
+framework module SSVoice {
+  umbrella header "SSVoice-umbrella.h"
+
+  export *
+  module * { export * }
+}
